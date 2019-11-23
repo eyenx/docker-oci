@@ -1,6 +1,9 @@
 # docker-oci
 
-See https://github.com/oracle/oci-cli
+[![Circle CI](https://circleci.com/gh/eyenx/docker-oci.svg?style=svg)](https://circleci.com/gh/eyenx/docker-oci)
+
+
+[Oracle Cloud Client](https://github.com/oracle/oci-cli) in a container
 
 Installed with this script: https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.sh
 
