@@ -1,6 +1,6 @@
 # docker-oci
 
-![](https://github.com/eyenx/docker-octodns/workflows/build/badge.svg)
+![](https://github.com/eyenx/docker-oci/workflows/build/badge.svg)
 [![](https://images.microbadger.com/badges/image/eyenx/oci.svg)](https://microbadger.com/images/eyenx/oci "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/eyenx/oci.svg)](https://microbadger.com/images/eyenx/oci "Get your own version badge on microbadger.com")
 
 
