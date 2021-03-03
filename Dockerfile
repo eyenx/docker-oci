@@ -1,6 +1,6 @@
 	
 FROM	debian:buster-slim
-LABEL	org.opencontainers.image.source="Toni Tauro <eye@eyenx.ch>"
+LABEL	org.opencontainers.image.authors="Toni Tauro <eye@eyenx.ch>"
 RUN	apt update \
 	&& apt install curl -y \
 	&& curl -o /tmp/install.sh -L https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.sh \
